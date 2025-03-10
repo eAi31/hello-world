@@ -21,19 +21,19 @@
 <details>
   <summary> Engagement Level </summary>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=matteoludovino&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=eai31&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats">
   </p>
 </details>
 <details>
   <summary> GitHub Streak </summary>
   <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=matteoludovino&theme=midnight-purple&hide_border=true" alt="GitHub Streak">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=eai31&theme=midnight-purple&hide_border=true" alt="GitHub Streak">
   </p>
 </details>
 <details>
   <summary> Top Languages </summary>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matteoludovino&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" alt="Top Langs">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eai31&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" alt="Top Langs">
   </p>
 </details>
 
