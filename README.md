@@ -16,26 +16,7 @@
   <img src="https://skillicons.dev/icons?i=git,github,figma,discord" />
 </a>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="30" height="30" /> My GitHub Stats
-
-<details>
-  <summary> Engagement Level </summary>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=eai31&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats">
-  </p>
-</details>
-<details>
-  <summary> GitHub Streak </summary>
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=eai31&theme=midnight-purple&hide_border=true" alt="GitHub Streak">
-  </p>
-</details>
-<details>
-  <summary> Top Languages </summary>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eai31&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" alt="Top Langs">
-  </p>
-</details>
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="30" height="30"  
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
